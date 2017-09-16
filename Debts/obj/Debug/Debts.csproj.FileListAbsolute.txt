@@ -1,0 +1,5 @@
+C:\Users\root\RiderProjects\Debts\Debts\bin\Debug\Debts.exe
+C:\Users\root\RiderProjects\Debts\Debts\bin\Debug\Debts.pdb
+C:\Users\root\RiderProjects\Debts\Debts\obj\Debug\Debts.csprojResolveAssemblyReference.cache
+C:\Users\root\RiderProjects\Debts\Debts\obj\Debug\Debts.exe
+C:\Users\root\RiderProjects\Debts\Debts\obj\Debug\Debts.pdb
